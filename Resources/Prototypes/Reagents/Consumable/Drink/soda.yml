@@ -117,7 +117,7 @@
   desc: reagent-desc-space-mountain-wind
   physicalDesc: reagent-physical-desc-fizzy
   flavor: sodacitrus
-  color: "#102000"
+  color: "#B8FF3D"
 
 - type: reagent
   id: SpaceUp
@@ -126,7 +126,7 @@
   desc: reagent-desc-space-up
   physicalDesc: reagent-physical-desc-fizzy
   flavor: spaceup
-  color: "#00FF00"
+  color: "#C7FFE1"
 
 - type: reagent
   id: Starkist
